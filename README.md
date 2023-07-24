@@ -5,7 +5,18 @@
 （2）后续技术栈--springboot-mybatis-plus
 
 #### 软件架构
-软件架构说明
+##### Redis
+
+工具-redis-insight
+
+官网
+
+https://redis.com/redis-enterprise/redis-insight/
+
+使用文档
+
+https://developer.aliyun.com/article/937141
+
 
 
 #### 安装教程
