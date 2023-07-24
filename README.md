@@ -17,6 +17,8 @@ https://redis.com/redis-enterprise/redis-insight/
 
 https://developer.aliyun.com/article/937141
 
+操作过程中，注意看提示，我安装中遇见 index 15 的限制了。重装勾选好了
+
 
 
 #### 安装教程
