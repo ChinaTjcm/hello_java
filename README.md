@@ -1,11 +1,19 @@
 # hello_java
 
-#### 介绍
+## 1. 介绍
 （1）java17--云学习项目
-（2）后续技术栈--springboot-mybatis-plus
 
-#### 软件架构
-##### Redis
+（2）后续技术栈--springboot、springcloud、mybatis、redis、nginx、postman、mysql
+
+开发环境-idea
+
+运行环境-linux
+
+
+
+## 2. 技术栈个人学习
+
+### Redis
 
 工具-redis-insight
 
@@ -21,17 +29,19 @@ https://developer.aliyun.com/article/937141
 
 
 
-#### 安装教程
+### Postman
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+有云账号、组说明
 
-#### 使用说明
+Postman压测
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+https://blog.csdn.net/anthony4515/article/details/116171682
+
+
+
+### Linux
+
+
 
 #### 参与贡献
 
@@ -39,13 +49,3 @@ https://developer.aliyun.com/article/937141
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
