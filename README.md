@@ -3,7 +3,27 @@
 ## 1. 介绍
 （1）java17--云学习项目
 
-（2）后续技术栈--springboot、springcloud、mybatis、redis、nginx、postman、mysql
+（2）技术栈
+
+springboot、springcloud
+
+ORM 层
+
+mybatis
+
+NOSQL
+
+redis、mongo
+
+
+
+nginx
+
+postman
+
+mysql
+
+
 
 开发环境-idea
 
