@@ -3,7 +3,7 @@
 ## 1. 介绍
 （1）java17--云学习项目
 
-（2）技术栈
+（2）后续技术栈
 
 springboot、springcloud
 
@@ -61,9 +61,19 @@ https://blog.csdn.net/anthony4515/article/details/116171682
 
 ### Linux
 
+#### 环境
+
+centos7
+
+#### 开发工具
+
+finalshell
 
 
-#### 参与贡献
+
+
+
+# 参与贡献
 
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
